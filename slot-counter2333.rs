@@ -3,7 +3,7 @@
 !#oppected at limda
 !#shown::odd  
 !#array::toe$#binde::due('2333')
-   roor::( bind slot-conter/etc/limda/ )
+   roor::( bind slot_counting/etc/limda/ )
  en{}
 !#dkeenkon nothing 
 
