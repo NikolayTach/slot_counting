@@ -8,6 +8,6 @@
 !#dkeenkon nothing 
 
 hog den::find path at 
-#https://github/NikolayTach/slot-counter/path.d <--- makes a refernce link to the person who is looking at it, thank you.#
 
+null
 end
