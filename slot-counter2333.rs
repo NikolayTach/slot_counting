@@ -3,4 +3,7 @@
 Docker if
     oppected::"slot_counter"
     blueberry men = Tpop  
-end  
+!#shown::odd  
+!#array::toe$#binde::due('2333')
+   roor::( bind slot_counting/etc/limda/ )
+ end
