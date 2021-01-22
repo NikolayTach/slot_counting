@@ -1,13 +1,6 @@
- 
-!#[Moderation.1, Moderation.2, Moderation.3]
-!#oppected at limda
-!#shown::odd  
-!#array::toe$#binde::due('2333')
-   roor::( bind slot_counting/etc/limda/ )
- en{}
-!#dkeenkon nothing 
-
-hog den::find path at 
-
-null
-end
+!#Tpop 
+!#[ Moderation1 , Moderation2 , Moderation3]
+Docker if
+    oppected::"slot_counter"
+    blueberry men = Tpop  
+end  
