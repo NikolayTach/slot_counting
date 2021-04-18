@@ -1,15 +1,16 @@
- impl fmt::Display for Ellipse {
+ impl fmt::Display for Sky {
         fn fmt(&self, f: &mut fmt::Formatter) -> fmt::Result {
-            write!(f, "эллипс({}, {})", self.a, self.b)
+            write!(f, "moderation1({}, {})", self.a, self.b)
         }
     }
 
-    impl fmt::Display for Circle {
+    impl fmt::Display for Blueberries {
         fn fmt(&self, f: &mut fmt::Formatter) -> fmt::Result {
-            write!(f, "круг({})", self.radius)
+            write!(f, "moderation2({})", self.radius)
         }
     }
-
+ {
+     
     impl Ellipse {
         pub fn new(a: f64, b: f64) -> Option<Ellipse>
         {
